@@ -14,8 +14,7 @@
     "emitDecoratorMetadata": true,
     "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
-    "resolveJsonModule": true,
-    "types": ["./src/custom-types.d.ts"]
+    "resolveJsonModule": true
   },
   "include": ["src/**/*"],
   "exclude": ["drizzle-orm"]
